@@ -25,3 +25,11 @@ li {
     padding-right: 10%;
     font-size: 18px;
 }
+
+.section-1 li{
+    text-align: center;
+    padding: 2%;
+    box-shadow: 2px 5px 5px grey;
+    margin: 2%;
+    border-radius: 5px;
+}
